@@ -13,6 +13,9 @@
 提取码：k2fw 
 [baidu drive](https://pan.baidu.com/s/1FBeHNi9GYlF4B9DgDzmLiw?pwd=k2fw )
 
-作者邮箱 xucher2004@petalmail.com
+作者邮箱 
+xucher2004@petalmail.com
+xucher976606554@gmail.com
+
 
 若数据集和训练失效请及时联系作者
