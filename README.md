@@ -8,6 +8,10 @@
 1. 若没有癌症则不会分割
 2. 快速定位肿瘤
 
+#### 计算平台
+需要 tensorflow 2.10 以上版本
+
+
 数据集和训练的.h5文件已在 baidu drive 公布
 链接：https://pan.baidu.com/s/1FBeHNi9GYlF4B9DgDzmLiw?pwd=k2fw 
 提取码：k2fw 
